@@ -13,8 +13,6 @@ class App extends Component {
         <header className="App-header">
           Now
         </header>
-=======
-        >>>>>>> 959c30cfc175ac07a1b261222912dceb74119366
         <p className="App-intro">
           In React apps, we write JSX - it looks like HTML, and uses a lot of HTML syntax.
           JSX lets us include JavaScript functions right along with the HTML, and also
