@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import moment from 'moment';
 import ExampleComponent from './ExampleComponent'
-import TestComponent from './TestComponent'
+// import TestComponent from './TestComponent'
 
 // Add your code own within the return statement
 
@@ -12,14 +12,23 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           Now
+<<<<<<< HEAD
         </header>
+=======
+        </Nowheader>
+>>>>>>> 959c30cfc175ac07a1b261222912dceb74119366
         <p className="App-intro">
           In React apps, we write JSX - it looks like HTML, and uses a lot of HTML syntax.
           JSX lets us include JavaScript functions right along with the HTML, and also
           allows us to add in components, which are separate, self-contained chunks of JSX.
         </p>
+<<<<<<< HEAD
           <ExampleComponent />
           <TestComponent />
+=======
+
+
+>>>>>>> 959c30cfc175ac07a1b261222912dceb74119366
       </div>
     );
   }
