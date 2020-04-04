@@ -21,10 +21,6 @@ class App extends Component {
 
           <ExampleComponent />
           <TestComponent />
-=======
-
-
->>>>>>> 959c30cfc175ac07a1b261222912dceb74119366
       </div>
     );
   }
